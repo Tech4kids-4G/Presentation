@@ -1,0 +1,385 @@
+object:IconImage
+{
+	pixmap="./img_vthumb.jpg";
+	object :ThumbSpec
+	{
+		filename="1340_0.png";
+		date=26/5/2018;
+		time=14:48:33:144;
+		size=(4160p,1592p);
+		rect=(0;2,80,31);
+		x=1p;
+		y=25p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="1_Primary_logo_on_transparent.png";
+		date=26/5/2018;
+		time=23:48:17:70;
+		size=(4000p,3326p);
+		rect=(80,0,80,67);
+		x=1p;
+		y=7p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="2000px-Scratch_Logo.svg.png";
+		date=26/5/2018;
+		time=14:44:7:369;
+		size=(2000p,673p);
+		rect=(160,0,80,27);
+		x=1p;
+		y=27p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="aeb3ec29ee7894a13bf0d54ea8291117.png";
+		date=26/5/2018;
+		time=14:47:21:828;
+		size=(1024p,782p);
+		rect=(240,0,80,61);
+		x=1p;
+		y=10p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="arduino-101-bt-rc-car-schematics_JLhaaNS8iL.png";
+		date=26/5/2018;
+		time=15:38:26:27;
+		size=(1200p,800p);
+		rect=(320,0,80,53);
+		x=1p;
+		y=14p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="arduino.png";
+		date=26/5/2018;
+		time=15:46:45:598;
+		size=(1280p,871p);
+		rect=(400,0,80,54);
+		x=1p;
+		y=14p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="bouton-rouge.png";
+		date=31/5/2018;
+		time=1:0:31:13;
+		size=(1920p,1920p);
+		rect=(480,0,80;2);
+		x=1p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="ccml_primary_logo_on_transparent_256.png";
+		date=26/5/2018;
+		time=15:31:43:906;
+		size=(256p,212p);
+		rect=(560,0,80,66);
+		x=1p;
+		y=8p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="collaborer.png";
+		date=26/5/2018;
+		time=19:26:21:158;
+		size=(1600p,1200p);
+		rect=(640,0,80,60);
+		x=1p;
+		y=11p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="dd7b2c14-8be0-49f8-91cc-f59d8f0c24bc.png";
+		date=31/5/2018;
+		time=1:52:35:911;
+		size=(1280p,960p);
+		rect=(720,0,80,60);
+		x=1p;
+		y=11p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="e-marketing.png";
+		date=26/5/2018;
+		time=15:58:19:956;
+		size=(1473p,1269p);
+		rect=(0,80;2,69);
+		x=1p;
+		y=6p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="email-logo-md.png";
+		date=26/5/2018;
+		time=15:26:55:15;
+		size=(300p,300p);
+		rect=(80;4);
+		x=1p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="enregistrer-base-email.png";
+		date=26/5/2018;
+		time=15:25:51:677;
+		size=(1200p,676p);
+		rect=(160,80;2,45);
+		x=1p;
+		y=18p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="image2.png";
+		date=10/5/2018;
+		time=19:15:30:568;
+		size=(1280p,1210p);
+		rect=(240,80;2,76);
+		x=1p;
+		y=3p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="imaginer.png";
+		date=26/5/2018;
+		time=19:32:47:48;
+		size=(1231p,1070p);
+		rect=(400,80;2,70);
+		x=1p;
+		y=6p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="jouer.png";
+		date=26/5/2018;
+		time=19:30:44:874;
+		size=(1000p,1124p);
+		rect=(480,80,71,80);
+		x=5p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="logo-2 - Copie.png";
+		date=26/5/2018;
+		time=15:0:24:645;
+		size=(2598p,2598p);
+		rect=(560,80;3);
+		x=1p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="logo-2.png";
+		date=26/5/2018;
+		time=15:0:24:645;
+		size=(2598p,2598p);
+		rect=(640,80;3);
+		x=1p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="logo-tech4kids-v2.png";
+		date=31/5/2018;
+		time=1:21:50:564;
+		size=(2598p,3000p);
+		rect=(720,80,69,80);
+		x=6p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="logo-tech4kids-v3.png";
+		date=31/5/2018;
+		time=1:24:59:568;
+		size=(2598p,3000p);
+		rect=(0,160,69,80);
+		x=6p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="logo-tech4kids.png";
+		date=31/5/2018;
+		time=1:6:59:615;
+		size=(2598p,2598p);
+		rect=(80,160,80;2);
+		x=1p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="mbot.png";
+		date=26/5/2018;
+		time=14:46:0:658;
+		size=(1000p,800p);
+		rect=(160;2,80,64);
+		x=1p;
+		y=9p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="scratch2.png";
+		date=26/5/2018;
+		time=15:55:1:77;
+		size=(1167p,1050p);
+		rect=(240,160,80,72);
+		x=1p;
+		y=5p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="scratch_cat_large.png";
+		date=26/5/2018;
+		time=16:8:34:817;
+		size=(1483p,1601p);
+		rect=(320,160,74,80);
+		x=4p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="table-scratch-1400x945-17.png";
+		date=31/5/2018;
+		time=1:47:24:541;
+		size=(1400p,945p);
+		rect=(400,160,80,54);
+		x=1p;
+		y=14p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="WhatsApp-PNG-Image.png";
+		date=26/5/2018;
+		time=15:18:7:40;
+		size=(1068p,834p);
+		rect=(480,160,80,62);
+		x=1p;
+		y=10p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="binary_tunnel.jpg";
+		date=31/5/2018;
+		time=13:0:43:10;
+		size=(900p,506p);
+		dpi=0;
+		rect=(560,160,80,45);
+		x=1p;
+		y=18p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="groupes_ateliers_robotique_preverenges.jpg";
+		date=26/5/2018;
+		time=15:3:53:240;
+		size=(2496p,1592p);
+		dpi=0;
+		rect=(640,160,80,51);
+		x=1p;
+		y=15p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="image3.jpg";
+		date=10/5/2018;
+		time=19:20:21:655;
+		size=(1140p,684p);
+		dpi=-1;
+		rect=(720,160,80,48);
+		x=1p;
+		y=17p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="image4.jpg";
+		date=10/5/2018;
+		time=19:29:59:256;
+		size=(355p,355p);
+		dpi=0;
+		rect=(0,240,80;2);
+		x=1p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="images1.jpg";
+		date=10/5/2018;
+		time=19:11:31:439;
+		size=(276p,183p);
+		dpi=0;
+		rect=(80,240,80,53);
+		x=1p;
+		y=14p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="images5.jpg";
+		date=10/5/2018;
+		time=19:27:41:682;
+		size=(1000p,1000p);
+		rect=(160,240,80;2);
+		x=1p;
+		y=1p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="logosuisse.jpg";
+		date=27/5/2018;
+		time=15:27:15:335;
+		size=(259p,194p);
+		dpi=0;
+		rect=(240;2,80,60);
+		x=1p;
+		y=11p;
+		draw_style=(NonClient);
+	};
+	object :ThumbSpec
+	{
+		filename="scratch_offline_ecran.jpg";
+		date=31/5/2018;
+		time=1:44:28:249;
+		size=(1800p,1041p);
+		dpi=0;
+		rect=(320,240,80,47);
+		x=1p;
+		y=17p;
+		draw_style=(NonClient);
+	};
+}
